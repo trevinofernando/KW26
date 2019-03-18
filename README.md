@@ -1,9 +1,5 @@
 # KW26
 
-Developers: 
--
-Fernando Trevino (myself).
-
 Programing Language: 
 -
 C.
